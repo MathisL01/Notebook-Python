@@ -1,0 +1,13 @@
+.infos()
+.values
+
+inplace = true modifie directement l'objet ciblé
+
+iloc = par la position 
+.loc = par le nom de la colonne ou ligne
+
+.sort_values() = trie par valeur dans axes
+
+.dropna = supprime toutes les lignes qui présentent des valeurs manquantes
+peut prendre en paramètre un (subset= ) dans lequel on précise les colonnes dans 
+lesquelles on souhaite supprimer les lignes avec des valeurs manquantes
